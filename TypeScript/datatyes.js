@@ -43,3 +43,7 @@ let n = [10, 9];
 console.log(n);
 console.log(swapnums(n));
 console.log(n);
+//Any
+let anyEx;
+anyEx = "dasfad";
+anyEx = 10;
